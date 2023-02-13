@@ -2,7 +2,9 @@
 
 [Codewars Kata KYU - 4](https://www.codewars.com/kata/529bf0e9bdf7657179000008/python)
 
-Join [CodeWars](www.codewars.com/r/v0KX6w) and follow [me](https://www.codewars.com/users/gmarte)!
+:computer: Join [CodeWars](www.codewars.com/r/v0KX6w) and :point_right: follow [me](https://www.codewars.com/users/gmarte)!
+
+##### :collision: Note: These solutions are intended for educational purposes only. Do not use them directly on Codewars katas. Instead, create your own solutions to gain a deeper understanding. :collision:
 
 ## Sudoku Background
 Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9, so that each column, each row, and each of the nine 3x3 sub-grids (also known as blocks) contain all of the digits from 1 to 9.
@@ -47,7 +49,6 @@ validSolution([
 def valid_solution(board):
 ```
 ### Solution
-
 ```python
 import numpy as np
 
