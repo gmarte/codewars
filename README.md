@@ -13,7 +13,8 @@
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Sodoku Solution Validator**](4kyuKatas/Sodoku_Solution_Validator.md)  | 1 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008/python) |
-| [**Strip Comments**](4kyuKatas/Strip_Comments.md)  | 2 | `str`, `format` | [link](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/) |
+| [**Snail Sort**](4kyuKatas/Snail.md)  | 2 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
+| [**Snail Sort**](4kyuKatas/Snail.md)  | 3 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
 
 <br>
 
