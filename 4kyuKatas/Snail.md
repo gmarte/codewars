@@ -1,4 +1,6 @@
 # Snail Sort
+:computer: Join [CodeWars](www.codewars.com/r/v0KX6w) and :point_right: follow [me](https://www.codewars.com/users/gmarte)!
+
 Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
 ```
 array = [[1,2,3],
@@ -22,6 +24,8 @@ This image will illustrate things more clearly:
 
 ##### NOTE 2: The 0x0 (empty matrix) is represented as en empty array inside an array [[]].
 
+<details><summary>open to view solution</summary>
+
 ### Solution
 ```python
 def snail(snail_map):
@@ -31,3 +35,4 @@ def snail(snail_map):
         snail_map = list(map(list, zip(*snail_map)))[::-1]
     return [x for i in listResult for x in i]
 ```    
+</details>

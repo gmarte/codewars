@@ -1,7 +1,6 @@
-# Sodoku Solution Validator
+# Sudoku Solution Validator
 
 [Codewars Kata KYU - 4](https://www.codewars.com/kata/529bf0e9bdf7657179000008/python)
-
 :computer: Join [CodeWars](www.codewars.com/r/v0KX6w) and :point_right: follow [me](https://www.codewars.com/users/gmarte)!
 
 ##### :collision: Note: These solutions are intended for educational purposes only. Do not use them directly on Codewars katas. Instead, create your own solutions to gain a deeper understanding. :collision:
@@ -15,7 +14,7 @@ Write a function validSolution/ValidateSolution/valid_solution() that accepts a 
 
 The board is always 9 cells by 9 cells, and every cell only contains integers from 0 to 9.
 
-Examples
+**Examples**
 ```
 validSolution([
   [5, 3, 4, 6, 7, 8, 9, 1, 2],
@@ -47,7 +46,11 @@ validSolution([
 ### Given Code
 ```python
 def valid_solution(board):
+    pass
 ```
+
+<details><summary>open to view solution</summary>
+
 ### Solution
 ```python
 import numpy as np
@@ -84,3 +87,4 @@ def get_subgrids(grid):
             subgrids.append(subgrid)
     return np.array(subgrids)
 ```    
+</details>

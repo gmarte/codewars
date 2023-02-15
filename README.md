@@ -8,14 +8,14 @@
 
 ## 4kyu Katas
 
-<br>
+<details> <summary>Open to view</summary>
 
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
-| [**Sodoku Solution Validator**](4kyuKatas/Sodoku_Solution_Validator.md)  | 1 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008/python) |
+| [**Sodoku Solution Validator**](4kyuKatas/Sudoku_Solution_Validator.md)  | 1 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/529bf0e9bdf7657179000008) |
 | [**Snail Sort**](4kyuKatas/Snail.md)  | 2 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
-| [**Snail Sort**](4kyuKatas/Snail.md)  | 3 | `list`, `map`, `zip` | [link](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) |
-
+| [**Human readable duration format**](4kyuKatas/Human_readable_duration_format.md)  | 3 | `str`, `time`, `format` | [link](https://www.codewars.com/kata/52742f58faf5485cae000b9a) |
+</details>
 <br>
 
 ---
